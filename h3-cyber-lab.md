@@ -237,3 +237,11 @@ Solution: I had to ask co-pilot how to fix this and got the recommendation below
 9.Click OK and start the VM.
 
 Overall this is an interesting task.
+
+## References:
+
+Heinonen, J. (2026). How to Install Linux to Virtualbox? GitHub Repository: johanna-test-repo/module_1.md. https://github.com/johannaheinonen/johanna-test-repo/blob/main/module_1.md
+
+Karvinen, T. (2020). Command Line Basics Revisited. TeroKarvinen.com. https://terokarvinen.com/2020/command-line-basics-revisited/
+
+Karvinen, T. (2022). Cracking Passwords with Hashcat. TeroKarvinen.com. https://terokarvinen.com/2022/cracking-passwords-with-hashcat/
